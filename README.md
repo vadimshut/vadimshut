@@ -1,3 +1,5 @@
+![banner (1)](https://user-images.githubusercontent.com/60336779/182856607-386c486d-3759-4d2e-87c2-bd54651ff68b.png)
+
 # 👋 I'm Vadim Shut
 ***
 ### Skils and Tools:
