@@ -30,3 +30,7 @@
 <br/>
 
 ![alt rank](https://www.codewars.com/users/vadimshut/badges/small) 
+
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimshut&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
