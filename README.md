@@ -1,4 +1,4 @@
-![banner (1)](https://user-images.githubusercontent.com/60336779/182856607-386c486d-3759-4d2e-87c2-bd54651ff68b.png)
+![banner (2)](https://user-images.githubusercontent.com/60336779/182857690-af4c820b-cd9e-493c-a239-f9381f1eaa7e.png)
 
 ### Skils and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
