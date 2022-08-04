@@ -1,5 +1,5 @@
 ![banner (3)](https://user-images.githubusercontent.com/60336779/182861271-31a98f27-01f0-4226-a156-64bcfbda2047.png)
-
+<img src="https://komarev.com/ghpvc/?username=vadimshut&style=flat-square&color=blue" alt=""/>
 ### :briefcase: Skils and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,6 +22,9 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ***
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimshut&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+***
 ### :telephone_receiver: You can contact me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-shut-02b132188)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vadim111029)
@@ -30,10 +33,3 @@
 <br/>
 
 ![alt rank](https://www.codewars.com/users/vadimshut/badges/small) 
-
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimshut&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img src="https://komarev.com/ghpvc/?username=vadimshut&style=flat-square&color=blue" alt=""/>
